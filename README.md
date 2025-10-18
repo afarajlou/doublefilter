@@ -86,5 +86,5 @@ Each motor supports independent PWM duty cycle and direction control.
 
 ##👩‍💻 Authors
 
-Fatemeh Farajlou 
-Seyed Hossein Malekouti 
+**Fatemeh Farajlou**
+**Seyed Hossein Malekouti**
