@@ -45,15 +45,6 @@ This work was completed as a course project at **Amirkabir University of Technol
 
 ---
 
-## 🧰 Dependencies
-
-Add these lines to your **`requirements.txt`**:
-
-```text
-numpy
-opencv-python
-pynq==2.6.*
-git+https://github.com/Xilinx/PYNQ-ComputerVision.git
 
 ##🚀 Setup (when hardware available)
 sudo apt-get update
