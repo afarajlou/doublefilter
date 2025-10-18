@@ -1,7 +1,5 @@
-# doublefilter
 
-## In this project I use this library
-🤖 PYNQ-Z2 Machine Vision Robot
+# 🤖 PYNQ-Z2 Machine Vision Robot
 
 Hardware/Software Co-Design for Real-Time Image Filtering and Motor Control
 
