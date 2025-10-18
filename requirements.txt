@@ -1,0 +1,4 @@
+numpy
+opencv-python
+pynq==2.6.*
+git+https://github.com/Xilinx/PYNQ-ComputerVision.git
